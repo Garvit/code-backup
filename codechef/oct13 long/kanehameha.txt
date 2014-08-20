@@ -1,0 +1,45 @@
+2
+8
+0 1
+1 0
+1 1
+1 2
+1 3
+2 2
+3 3
+4 0
+9
+0 1
+1 0
+2 0
+2 1
+2 2
+3 1
+4 2
+5 3
+5 4
+
+/*for(it=mapx.begin();it!=mapx.end();it++)
+            {
+                printf("%d ",it->first);
+                set<int> s=it->second;
+                for(setit=s.begin();setit!=s.end();setit++)
+                {
+                    printf("%d ",*setit);
+                }
+                printf("\n");
+            }
+            printf("\n");
+
+            for(it=mapy.begin();it!=mapy.end();it++)
+            {
+                printf("%d ",it->first);
+                set<int> s=it->second;
+                for(setit=s.begin();setit!=s.end();setit++)
+                {
+                    printf("%d ",*setit);
+                }
+                printf("\n");
+            }
+            printf("\n");
+            */
